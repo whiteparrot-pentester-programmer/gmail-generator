@@ -1,4 +1,4 @@
-<img src="https://store3.gofile.io/download/6ae2e00b-4193-484a-b52b-ffae5c146efa/whiteparrot.png" width="200" height="200"/>
+<img src="https://www2.zippyshare.com/i/u2MbzPig/42268/whiteparrot.png" width="200" height="200"/>
 
 # gmail-generator
 gmail python email generator with usernames
