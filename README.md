@@ -11,7 +11,7 @@ Run python generator.py
 
 # Step 3: 
 
-specify how much you want to generate and gem!
+specify how much you want to generate and gen!
 
 # Step 4: 
 
