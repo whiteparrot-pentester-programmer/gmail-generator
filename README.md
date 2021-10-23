@@ -1,4 +1,7 @@
-<img src="https://www2.zippyshare.com/i/u2MbzPig/42268/whiteparrot.png" width="200" height="200"/>
+<center>
+  <img src="logo.png"  width="200" height="200" style="text-align:center;
+ display:block;"/>
+</center>
 
 # gmail-generator
 gmail python email generator with usernames
