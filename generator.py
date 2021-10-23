@@ -1,7 +1,7 @@
 import random
 import string
 # get user input
-num = int(input("\nHow much do you wan to gen Stelko> "))
+num = int(input("\nHow much do you want to gen> "))
 # read word lists
 with open('nouns.txt', encoding="utf8") as infile:
     nouns = infile.read().strip(' \n').split('\n')
