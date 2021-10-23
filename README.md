@@ -12,7 +12,8 @@ git clone https://github.com/whiteparrot-pentester-programmer/gmail-generator.gi
 
 # Step 2: 
 
-Run python generator.py 
+Run: python generator.py 
+     python3 generator.py 
 
 # Step 3: 
 
