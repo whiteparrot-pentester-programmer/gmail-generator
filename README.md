@@ -1,7 +1,6 @@
-<center>
-  <img src="logo.png"  width="200" height="200" style="text-align:center;
- display:block;"/>
-</center>
+<p align="center>
+  <img src="logo.png" width="200" height="200"/>
+</p>
 
 # gmail-generator
 gmail python email generator with usernames
