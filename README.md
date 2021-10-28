@@ -1,5 +1,7 @@
-<p align="center>
-  <img src="logo.png" width="200" height="200"/>
+<p align="center">
+  <a href="https://github.com/whiteparrot-pentester-programmer/gmail-generator">
+    <img src="https://github.com/whiteparrot-pentester-programmer/gmail-generator/blob/main/logo.png?raw=true" width="200" height="200"/>
+  </a>
 </p>
 
 # gmail-generator
